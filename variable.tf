@@ -12,7 +12,7 @@ variable "instance_name" {
 
 variable "machine_type" {
   description = "GCE machine type"
-  default     = "e2-medium"
+  # default     = "e2-medium"
 }
 
 variable "instace_image" {
